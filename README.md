@@ -11,7 +11,7 @@ object **ELI** {
  val name = "ELIEDSON_GUSTAVO"
  val acknowledgements = "FRONT_END"
 
- val primarySkillset = "DESENVOLVIMENTO DE SITES E ESTUDANTE DE PROGRAMAÇÃO"
+ val primarySkillset = "DESENVOLVEDORR DE SITES E ESTUDANTE DE PROGRAMAÇÃO"
  val languages = listOf("Java", "Python", "JavaScript", "CSS", "HTML5")
 
 }
