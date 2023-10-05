@@ -38,7 +38,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p>•</p>
 
 <p align="left">
-  <a href="eliedsongustavo6@gmail.com" alt="Gmail">
+  <a href="(eliedsongustavo6@gmail.com)" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/eliedson-gustavo-687bb3203" alt="Linkedin">
