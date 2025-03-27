@@ -31,7 +31,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br>
 <a href="https://github.com/ELIEDSON-GUSTAVO">
 <img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
 <p>•</p>
